@@ -16,3 +16,9 @@ Tugas Listing Teknik Pemrograman Praktek pada Bahasa Pemrograman Java
 - Retirement2
 - StaticTest
 - ParamTest
+
+### Credit
+Thanks for all contributor. Especially for the lecturer who has guided us for making this project
+
+### Contributor
+- [Muhammad Azhar Alauddin](https://github.com/zharmedia386)
